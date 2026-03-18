@@ -37,49 +37,13 @@ Computer Science Engineering student with hands-on experience in software develo
 
 ---
 
-## 🚀 Projects
 
-### 🔐 WebSense Toolkit
-**React | Next.js | Firebase**
-- Developed a cloud-based digital safety and internet analysis platform  
-- Implemented authentication, scan history, and unified safety scoring  
-- Designed for real-time security insights and user data management  
-
----
-
-### 🚆 Railway Reservation System
-**HTML | CSS | JavaScript | Python | MongoDB**
-- Built a web-based reservation system with booking and cancellation features  
-- Integrated database operations for real-time data handling  
-
----
-
-### 📦 Inventory Management System
-**Java**
-- Developed a desktop-based system for stock tracking and order management  
-- Implemented efficient data handling and reporting features  
-
----
-
-### 🎓 Student Information System
-**HTML | CSS | JS | PHP | MySQL**
-- Created a full-stack CRUD application for managing student records  
-- Designed database-driven backend with dynamic UI  
-
----
-
-### 📊 House Price Prediction
-**Python | Machine Learning**
-- Built a regression-based ML model using real-world housing datasets  
-- Focused on data preprocessing and predictive accuracy  
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaycs096&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycs096&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +51,7 @@ Computer Science Engineering student with hands-on experience in software develo
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaycs096&theme=react-dark&hide_border=true" />
 </p>
 
 ---
