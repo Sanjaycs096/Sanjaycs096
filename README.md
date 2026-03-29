@@ -1,6 +1,6 @@
 <!-- CYBERPUNK HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sanjaykumar;Software+Developer;Full-Stack+developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sanjaykumar;Full-Stack+developer" />
 </h1>
 
 <p align="center">
@@ -27,12 +27,9 @@ Computer Science Engineering student with hands-on experience in software develo
 ![HTML](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=ff00ff)
 ![CSS](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=ff00ff)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00F7FF)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=00F7FF)
 
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00F7FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=00F7FF)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=ff00ff)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=ff00ff)
 
 ---
