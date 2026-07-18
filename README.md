@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Sanjaykumar+M;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Sanjaykumar+M;Full+Stack+Developer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
 </div>
 <br>
 <div align="center">
@@ -82,14 +82,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -98,7 +96,6 @@
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -106,7 +103,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🧠 Concepts
@@ -115,7 +111,6 @@
 ![SDLC](https://img.shields.io/badge/SDLC-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2F4F4F?style=for-the-badge&logo=security&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </div>
 <br>
 
@@ -241,13 +236,6 @@
 </div>
 <br>
 
-## 🐍 Contribution Snake Animation
-<br>
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake Animation" />
-</div>
-<br>
-
 ## 🏆 Coding Profiles
 <br>
 <div align="center">
@@ -260,9 +248,6 @@
   </a>
   <a href="https://www.hackerrank.com/sanjaykumarmmkce">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=2EC866" alt="HackerRank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sanjaykumarmmkce/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
 <br>
