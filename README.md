@@ -163,7 +163,7 @@
         <h3>🛡️ Transformer-Based WAF</h3>
         <p>AI-powered Web Application Firewall using Transformer models to detect malicious web requests in real-time.</p>
         <p><b>Tech:</b> Python, React, Node.js, ML, Transformers, WebSockets</p>
-        <p><a href="https://github.com/Sanjaycs096/transformer-waf">🔗 Repository</a></p>
+        <p><a href="https://github.com/Sanjaycs096/WEB-APPLICATION-FIREWALL.git">🔗 Repository</a></p>
       </td>
       <td width="50%">
         <h3>🌐 WebSense Toolkit</h3>
@@ -177,13 +177,13 @@
         <h3>💊 FillPill</h3>
         <p>Smart medication reminder application with authentication, scheduling, notifications, and secure cloud storage.</p>
         <p><b>Tech:</b> React Native, Node.js, MongoDB, Firebase</p>
-        <p><a href="https://github.com/Sanjaycs096/fillpill">🔗 Repository</a></p>
+        <p><a href="https://github.com/S-G-Rathenesh/FillPill.git">🔗 Repository</a></p>
       </td>
       <td width="50%">
         <h3>🚂 Railway Reservation System</h3>
         <p>Full-stack reservation system with ticket booking, cancellation, authentication, and MongoDB integration.</p>
         <p><b>Tech:</b> Java, Spring Boot, MongoDB, React</p>
-        <p><a href="https://github.com/Sanjaycs096/railway-reservation">🔗 Repository</a></p>
+        <p><a href="https://github.com/Sanjaycs096/RAILWAY-RESERVATION.git">🔗 Repository</a></p>
       </td>
     </tr>
     <tr>
@@ -191,21 +191,35 @@
         <h3>🏫 Student Information System</h3>
         <p>Secure full-stack student management system with CRUD operations, authentication, and MySQL database integration.</p>
         <p><b>Tech:</b> Java, Spring Boot, MySQL, React</p>
-        <p><a href="https://github.com/Sanjaycs096/student-information-system">🔗 Repository</a></p>
+        <p><a href="https://github.com/Sanjaycs096/STUDENT-INFORMATION-STSTEM.git">🔗 Repository</a></p>
       </td>
       <td width="50%">
         <h3>📦 Inventory Management System</h3>
         <p>Java desktop application for inventory management, stock tracking, sales records, and reporting.</p>
         <p><b>Tech:</b> Java, Swing, MySQL</p>
-        <p><a href="https://github.com/Sanjaycs096/inventory-management">🔗 Repository</a></p>
+        <p><a href="https://github.com/Sanjaycs096/INVENTORY-MANAGEMENT-SYSTEM.git">🔗 Repository</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>🏠 House Price Prediction</h3>
+        <p>Regression-based machine learning model using Python for predicting residential property prices from real-world datasets.</p>
+        <p><b>Tech:</b> Python, Pandas, Scikit-learn, Regression</p>
+        <p><a href="https://github.com/Sanjaycs096/HOUSE-PRICE-PREDICTION.git">🔗 Repository</a></p>
+      </td>
+      <td width="50%">
+        <h3>🤖 Chatbot Application</h3>
+        <p>PolyTalk AI is a secure multilingual AI chatbot built with HTML, CSS, JavaScript, and Python (Flask), supporting English, Tamil, and Malayalam through both text and voice.</p>
+        <p><b>Tech:</b> Python,HTML, CSS, JS,Neon</p>
+        <p><a href="https://github.com/Sanjaycs096/CHATBOT.git">🔗 Repository</a></p>
       </td>
     </tr>
     <tr>
       <td width="50%" colspan="2">
-        <h3>🏠 House Price Prediction</h3>
-        <p>Regression-based machine learning model using Python for predicting residential property prices from real-world datasets.</p>
-        <p><b>Tech:</b> Python, Pandas, Scikit-learn, Regression</p>
-        <p><a href="https://github.com/Sanjaycs096/house-price-prediction">🔗 Repository</a></p>
+        <h3>📄 WORD FREQUENCY COUNTER</h3>
+        <p>Built a production-style full-stack text analytics platform using FastAPI, Python, HTML, CSS, JavaScript, and Chart.js.</p>
+        <p><b>Tech:</b> Python, HTML, CSS, JS</p>
+        <p><a href="https://github.com/Sanjaycs096/WORD-FREQUENCY-COUNTER.git">🔗 Repository</a></p>
       </td>
     </tr>
   </table>
