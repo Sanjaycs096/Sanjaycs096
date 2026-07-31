@@ -196,7 +196,7 @@
       </td>
       <td width="50%">
         <h3>📦 Inventory Management System</h3>
-        <p>Java desktop application for inventory management, stock tracking, sales records, and reporting.</p>
+        <p>Java-based inventory management system with stock tracking, reporting, CRUD operations, and MySQL integration.</p>
         <p><b>Tech:</b> Java, Swing, MySQL</p>
         <p><a href="https://github.com/Sanjaycs096/INVENTORY-MANAGEMENT-SYSTEM.git">🔗 Repository</a></p>
       </td>
